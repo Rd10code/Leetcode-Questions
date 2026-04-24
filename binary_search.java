@@ -9,4 +9,5 @@ public class binary_search {
             return -1;
     }
 }
+
 }
