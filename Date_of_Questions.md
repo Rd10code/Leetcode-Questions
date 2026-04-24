@@ -10,3 +10,5 @@ From Date 22 April
 1. Two Sum
 23 April
 2. Binary Search (704)
+24 April
+27. Remove Element 
