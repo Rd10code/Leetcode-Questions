@@ -12,3 +12,10 @@ From Date 22 April
 2. Binary Search (704)
 24 April
 27. Remove Element 
+25 April
+88. Merge Sorted array
+27 April
+867. Transpose Matrix
+35. Search_Insert_position
+28 April
+509. Fibonacci Number   (Recursion)
